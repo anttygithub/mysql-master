@@ -1,4 +1,0 @@
-MYSQL-MASTER:
-  scale: 1
-MYSQL-SLAVE:
-  scale: 1
